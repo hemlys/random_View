@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/Layout"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:id="@+id/id_num1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+
+
+
+    <TextView
+        android:id="@+id/id_num2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/id_num3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+    <TextView
+        android:id="@+id/id_num4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+    <TextView
+        android:id="@+id/id_num5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+    <TextView
+        android:id="@+id/id_num6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:text="" />
+    <TextView
+        android:id="@+id/id_num7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+    <TextView
+        android:id="@+id/id_num8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+    <TextView
+        android:id="@+id/id_num9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+    <TextView
+        android:id="@+id/id_num10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:text="" />
+    <Button
+        android:id="@+id/tv_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:textColor="#FFFFFF"
+        android:text="刪除" />
+</LinearLayout>
